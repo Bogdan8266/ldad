@@ -76,7 +76,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|157548439|118858989|6d7105aa-3b07-4fd4-b2ee-207a4dd5a3cc|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|161155178|133100000|7c9e414a-4b14-4c0e-8b8b-8a2f737c6443|90ac893c-f48e-4f72-9cd0-5df4a0117daa",
+          "хочу шовкографію прямо по краю"
+        ],
+        [
+          "silk_edge_clearance|161157989|133099912|7c9e414a-4b14-4c0e-8b8b-8a2f737c6443|caa672af-c9c8-4a83-b3a8-bdacecbe8c4a",
+          "шовкографія прямо по краю плати"
+        ]
+      ],
       "meta": {
         "version": 2
       },
